@@ -1,6 +1,4 @@
 # Restaurant-billing-system
-Object Oriented Project created in Java. User/waiter have posibility to collect orders, and generate bills. More in README.
-
 Java project created in Eclipse at 22.05.2019.
 
 My project is build un OOP paradigm. It contains parents and child classes, inheritances.
