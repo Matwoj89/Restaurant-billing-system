@@ -10,7 +10,7 @@ Price of order part is divided for: cost of meal, cost of drinks and total cost.
 Subtotal of order is extended for tax(10%) which is equal for TOTAL.
 
 After collecting an order user have to choose active buttons. There are 6 options:
-Total - summ up an order. Calculate amount of bill.
+Total - sum up an order. Calculate amount of bill.
 Check - generate bill on text area.
 Reset - turns every field on a start value.
 Exit - leave an aplication. This function is secured by JoptionPane with an ask to confirm closing.
