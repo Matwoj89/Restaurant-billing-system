@@ -12,7 +12,6 @@ Subtotal of order is extended for tax(10%) which is equal for TOTAL.
 After collecting an order user have to choose active buttons. There are 6 options:
 
 Total - sum up an order. Calculate amount of bill.
-
 Check - generate bill on text area.
 
 Reset - turns every field on a start value.
