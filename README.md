@@ -11,11 +11,11 @@ Subtotal of order is extended for tax(10%) which is equal for TOTAL.
 
 After collecting an order user have to choose active buttons. There are 6 options:
 
-1.Total - sum up an order. Calculate amount of bill.
-2.Check - generate bill on text area.
-3.Reset - turns every field on a start value.
-4.Exit - leave an aplication. This function is secured by JoptionPane with an ask to confirm closing.
-5.Save.txt - allows user to save generated bill in txt file. Exactly "C:\\Users\\user\\Desktop\\filename.txt"."\n"
-6.Print - as it is named. Printing a check.
+- Total - sum up an order. Calculate amount of bill.
+- Check - generate bill on text area.
+- Reset - turns every field on a start value.
+- Exit - leave an aplication. This function is secured by JoptionPane with an ask to confirm closing.
+- Save.txt - allows user to save generated bill in txt file. Exactly "C:\\Users\\user\\Desktop\\filename.txt"."\n"
+- Print - as it is named. Printing a check.
 
 Check method contains method of random select bill ID and random waiter name. It also get metod for an actual date and time.
