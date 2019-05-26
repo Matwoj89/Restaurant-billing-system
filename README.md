@@ -19,3 +19,4 @@ After collecting an order user have to choose active buttons. There are 6 option
 - Print - as it is named. Printing a check.
 
 Check method contains method of random select bill ID and random waiter name. It also get metod for an actual date and time.
+
