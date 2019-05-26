@@ -1,7 +1,7 @@
 # Restaurant-billing-system
 Java project created in Eclipse at 22.05.2019.
 
-My project is build un OOP paradigm. It contains parents and child classes, inheritances.
+My project is build un OOP paradigm. It contains parents, child classes and inheritances.
 User is able to choose few of position in restaurant menu. Menu is splited for categories like main dishes, starters, drinks etc.
 Every dish have price setted as double in SuperClass_Parent.
 Tax for every dish is stand at 10% of price.
