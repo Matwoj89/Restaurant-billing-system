@@ -20,3 +20,4 @@ After collecting an order user have to choose active buttons. There are 6 option
 
 Check method contains method of random select bill ID and random waiter name. It also get metod for an actual date and time.
 
+![dimsum](https://user-images.githubusercontent.com/5953716/58388803-72381700-8023-11e9-89c4-006cbfba8cc3.png)
