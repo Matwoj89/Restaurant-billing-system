@@ -15,7 +15,7 @@ After collecting an order user have to choose active buttons. There are 6 option
 - Check - generate bill on text area.
 - Reset - turns every field on a start value.
 - Exit - leave an aplication. This function is secured by JoptionPane with an ask to confirm closing.
-- Save.txt - allows user to save generated bill in txt file. Exactly "C:\\Users\\user\\Desktop\\filename.txt"."\n"
+- Save.txt - allows user to save generated bill in txt file. Exactly "C:\\Users\\user\\Desktop\\filename.txt".
 - Print - as it is named. Printing a check.
 
 Check method contains method of random select bill ID and random waiter name. It also get metod for an actual date and time.
